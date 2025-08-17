@@ -2,7 +2,7 @@
 
 ---
 
-## Unix Commands
+## 🔹 Unix Commands
 
 **Navigation**
 - `pwd` – Show current directory
