@@ -1,10 +1,4 @@
-Perfect 👍 I’ll merge both parts — **Branches in Git (overview, usage, workflow, visuals)** **+ Naming Conventions** — into one consolidated note for you.
-
-Here’s the combined document:
-
----
-
-# Git Branches – Cheat Sheet & Naming Conventions
+# Git Branches
 
 ---
 
